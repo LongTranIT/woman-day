@@ -1227,7 +1227,7 @@ body {
 /* Màn hình nhỏ (dưới 600px) */
 @media screen and (max-width: 600px) {
   #text {
-    font-size: 18px;
+    font-size: 12px;
   }
 }
 
